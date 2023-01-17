@@ -1,0 +1,7 @@
+To push your files to project from git, you need to enter:
+
+git remote add origin https://github.com/(your name)/(your_repository).git
+git push -u origin main
+
+EXAMPLE: git remote add origin https://github.com/cveExplorer/git-tutorial-commands.git
+	 git push -u origin main
